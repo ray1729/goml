@@ -3,11 +3,11 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"gonum.org/v1/gonum/stat"
 	"log"
 	"os"
 
 	"gonum.org/v1/gonum/mat"
+	"gonum.org/v1/gonum/stat"
 )
 
 func main() {

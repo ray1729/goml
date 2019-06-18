@@ -9,5 +9,5 @@ require (
 	github.com/ray1729/gota v0.9.1-0.20190614103646-9134a7844727
 	github.com/stretchr/testify v1.3.0
 	github.com/tobgu/qframe v0.2.1
-	gonum.org/v1/gonum v0.0.0-20190608115022-c5f01565d866 // indirect
+	gonum.org/v1/gonum v0.0.0-20190608115022-c5f01565d866
 )
